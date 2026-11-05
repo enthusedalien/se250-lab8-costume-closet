@@ -1,2 +1,2 @@
 # se250-lab9-costume-closet
-# Adrian Siers and Brandon Le
+Names: Adrian Siers and Brandon Le
